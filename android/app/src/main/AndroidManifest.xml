@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="mart"
+        android:label="Responsi 2 Mobile Paket 1 (H1D023073)"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

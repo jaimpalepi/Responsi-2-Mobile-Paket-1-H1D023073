@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Mart',
+      title: 'Responsi 2 Mobile Paket 1 (H1D023073)',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: Colors.grey,
